@@ -65,15 +65,15 @@
 <br/>
 
 ## Top Open Source -
-<div align="center">
-  <a href="https://github.com/AtsunaID/NewCrack"><img width="390" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=NewCrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
-  <a href="https://github.com/AtsunaID/Brute-1"><img width="390" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Brute-1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
-</div>
+<a>
+  <a href="https://github.com/AtsunaID/NewCrack"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=NewCrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="49.5%"/></a>
+  <a href="https://github.com/AtsunaID/Brute-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Brute-1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="49.5%"/></a>
+</a>
 
-<div align="center">
-  <a href="https://github.com/AtsunaID/Toolsfb"><img width="390" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Toolsfb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
-  <a href="https://github.com/AtsunaID/Spam"><img width="390" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Spam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
-</div>
+<a>
+  <a href="https://github.com/AtsunaID/Toolsfb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Toolsfb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="49.5%"/></a>
+  <a href="https://github.com/AtsunaID/Spam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Spam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="49.5%"/></a>
+</a>
 
 <p align="left">
   <a href="https://github.com/AtsunaID?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
