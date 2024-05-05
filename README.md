@@ -65,10 +65,10 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&width=48&repo=NewCrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunaID/NewCrack)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&width=48&repo=Brute-1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunaID/Brute-1)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&width=48&repo=Toolsfb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunaID/Toolsfb)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&width=48&repo=Spam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunID/Spam)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=NewCrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunaID/NewCrack&width=30)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Brute-1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunaID/Brute-1&width=30)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Toolsfb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunaID/Toolsfb&width=30)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Spam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunID/Spam&width=30)
 
 <p align="left">
   <a href="https://github.com/AtsunaID?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
