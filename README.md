@@ -66,13 +66,13 @@
 
 ## Top Open Source -
 <div align="center">
-  <a href="https://github.com/AtsunaID/NewCrack"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=NewCrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
-  <a href="https://github.com/AtsunaID/Brute-1"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Brute-1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
+  <a href="https://github.com/AtsunaID/NewCrack"><img width="390" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=NewCrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
+  <a href="https://github.com/AtsunaID/Brute-1"><img width="390" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Brute-1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/AtsunaID/Toolsfb"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Toolsfb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
-  <a href="https://github.com/AtsunaID/Spam"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Spam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
+  <a href="https://github.com/AtsunaID/Toolsfb"><img width="390" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Toolsfb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
+  <a href="https://github.com/AtsunaID/Spam"><img width="390" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Spam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"></a>
 </div>
 
 <p align="left">
