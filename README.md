@@ -48,13 +48,17 @@
 <br/>
 <br/>
 
-## Use To Code
+## Languages
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## IDEs/Editors
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 <br/>
 
@@ -62,7 +66,7 @@
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=NewCrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunaID/NewCrack)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=AtsunaID&repo=Brute-1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunaID/Brute-1)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Atsuna-ID&repo=Toolsfb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunaID/Toolsfb)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Atsuna-ID&repo=Atsuna&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunID/Spam)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Atsuna-ID&repo=Spam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AtsunID/Spam)
 
 <p align="left">
   <a href="https://github.com/AtsunaID?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
