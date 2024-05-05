@@ -27,6 +27,8 @@
  </a> 
  <a href="https://facebook.com/muzeyyinahliveimam" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Syarif Kan'z"  />
+   <a href="https://wa.me/+6281217064239" target="_blank">
+     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatSapp" />
   </a> 
 </p>
 <br />
