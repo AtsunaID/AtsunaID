@@ -21,7 +21,7 @@
         </samp>
 </h3>
 
-
+## SOSIAL MEDIA
  <a href="https://instagram.com/Alif_Lam_Ro" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Alif_Lam_Ro" />
  </a> 
